@@ -2,23 +2,20 @@
 
 This repository contains the hands-on labs for the ML Accelerator Program, published one day at a time.
 
-The current version includes only Day 1 so the cohort can focus on the engineering cockpit before moving into the next topic.
+The current version includes Day 1 and Day 2.
 
 ## Current Structure
 
 ```text
 week-01/
   day-01-project-setup-ai/
+  day-02-functions-modules-di/
 ```
 
-## Day 1 Covers
+## Current Days
 
-- terminal-first workflow
-- Git basics and rebase-first setup
-- `uv` and a proper `pyproject.toml`
-- `ruff` and `ty` in the terminal
-- GitHub Actions quality checks
-- safe AI-assisted development practices
+- Day 1: terminal-first workflow, Git basics, `uv`, `pyproject.toml`, `ruff`, `ty`, GitHub Actions, safe AI usage
+- Day 2: functions, composition, module boundaries, pragmatic OOP, protocols, dependency injection, strategy and factory basics
 
 ## Recommended Student Workflow
 
