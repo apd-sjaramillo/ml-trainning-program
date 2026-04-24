@@ -2,7 +2,7 @@
 
 This repository contains the hands-on labs for the ML Accelerator Program, published one day at a time.
 
-The current version includes Day 1 and Day 2.
+The current version includes Day 1, Day 2, and Day 4.
 
 ## Current Structure
 
@@ -10,12 +10,14 @@ The current version includes Day 1 and Day 2.
 week-01/
   day-01-project-setup-ai/
   day-02-functions-modules-di/
+  day-04-fastapi-service/
 ```
 
 ## Current Days
 
 - Day 1: terminal-first workflow, Git basics, `uv`, `pyproject.toml`, `ruff`, `ty`, GitHub Actions, safe AI usage
 - Day 2: functions, composition, module boundaries, pragmatic OOP, protocols, dependency injection, strategy and factory basics
+- Day 4: FastAPI, Pydantic, dependency injection, endpoint-service-repository architecture, SQLite, and endpoint tests
 
 ## Recommended Student Workflow
 
